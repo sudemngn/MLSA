@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I have an entrepreneurial spirit and love to work on projects. I am also developing myself in the field of software.";
+  "I have an entrepreneurial spirit, love to work on projects. I am also developing myself in the field of software.";
 
 const About = () => {
   return (
